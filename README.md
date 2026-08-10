@@ -1,7 +1,3 @@
-<div align="center">
-  <img height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDVmNDUzdTFkOTgzZ3hoZWdtYWF5cWpnNmthY3R5Mnp4MjB1azBsYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pvyS73YWLMR9zDXuLs/giphy.gif"  />
-</div>
-
 ###
 
 <h1 align="center">👋 Hi, I'm Lyn-77</h1>
