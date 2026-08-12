@@ -25,7 +25,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=Lyn-77&layout=compact&langs_count=5&theme=transparent&hide_border=true"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=Lyn-77&layout=compact&langs_count=4&theme=transparent&hide_border=true"/>
   <img src="https://github-readme-stats-fast.vercel.app/api?username=Lyn-77&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true"/>
 </div>
 
